@@ -11,3 +11,5 @@
    * For being a whitebox tester, it's having to play an unbalanced game or performing a certain task, perfectly, a certain amount of times to enusre that a bug was fixed and that no new bugs have arised.
 
 1. What is something new you learned about being a tester? Or something you found interesting?
+   
+   One thing I found interesting from the video is that Microsoft has a team of people with PhDs in Psychology running the Usability testing. They do this to help gauge how the players feel about certain levels or aspects of the game.
